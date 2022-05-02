@@ -17,4 +17,5 @@ This is my basic plan for going to the right
   - Add to my plan
   - Updated where every one is
   - Call the helper to go the other way.
+  
 When I go to the left, I do more or less the same thing, but I only need 1 walker and so therefore I don’t need to determine which walker is slower in that case, I simply use the walker I picked time.
